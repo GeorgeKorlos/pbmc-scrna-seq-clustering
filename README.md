@@ -244,7 +244,7 @@ George Korlos. (2026). PBMC scRNA-seq Clustering & Marker Identification
 ## Contact
 
 **Author:** George Korlos 
-**Email:** [Your Email]  
+**Email:** korlone@proton.me
 
 ---
 
