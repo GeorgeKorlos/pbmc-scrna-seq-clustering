@@ -1,0 +1,8 @@
+,Cluster,Cell Type,Marker Count,Evidence Strength,Canonical Markers
+0,0,Naive CD4+ T cells,4,High,"CD3D, CD3E, IL7R, CCR7"
+1,1,CD14+ Monocytes,3,Moderate,"CD14, HLA-DRA, LST1"
+2,2,B cells,3,Moderate,"MS4A1, CD79A, HLA-DRA"
+3,3,NK cells,4,High,"GNLY, NKG7, GZMA, FCGR3A"
+4,4,CD8+ T cells,5,High,"CD3D, CD3E, CD8A, GZMA, NKG7"
+5,5,Dendritic cells,4,High,"ITGAX, HLA-DRA, FCGR3A, LST1"
+6,6,Uncertain myeloid,2,Low,"HLA-DRA, LST1"

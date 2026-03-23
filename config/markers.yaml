@@ -1,0 +1,8 @@
+t_cells: ["CD3D", "CD3E"]
+cd4_t: ["IL7R", "CCR7"]
+cd8_t: ["CD8A", "GZMA"]
+nk: ["NKG7", "GNLY"]
+b_cells: ["MS4A1", "CD79A"]
+monocytes: ["CD14", "FCGR3A", "LST1"]
+dendritic_cells: ["HLA-DRA", "ITGAX"]
+platelets: ["PPBP", "PF4"]

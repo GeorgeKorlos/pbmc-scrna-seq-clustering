@@ -1,0 +1,8 @@
+res_1_0_cluster,res_1_5_cluster,res_1_0_n_markers,res_1_5_n_markers,n_overlap,jaccard,overlap_coef,overlap_genes
+0,0,5,10,3,0.25,0.6,"LDHB, RPS12, RPS25"
+1,2,5,10,5,0.5,1.0,"FTL, LYZ, S100A8, S100A9, TYROBP"
+2,3,5,10,5,0.5,1.0,"CD74, CD79A, HLA-DQA1, HLA-DRA, IGHM"
+3,4,5,10,5,0.5,1.0,"B2M, CST7, CTSW, GZMA, NKG7"
+4,4,5,10,5,0.5,1.0,"CCL5, CTSW, GZMK, IL32, NKG7"
+5,6,5,10,5,0.5,1.0,"AIF1, COTL1, FCER1G, LST1, SAT1"
+6,7,5,10,5,0.5,1.0,"CST3, HLA-DPA1, HLA-DPB1, HLA-DRA, HLA-DRB1"

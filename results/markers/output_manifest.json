@@ -1,0 +1,11 @@
+{
+    "all_markers": "../results/markers/all_filtered_markers.csv",
+    "top_markers": "../results/markers/top10_markers_per_cluster.csv",
+    "canonical_validation": "../results/markers/canonical_marker_validation.csv",
+    "mitochondrial_check": "../results/markers/mitochondrial_marker_check.csv",
+    "ribosomal_check": "../results/markers/ribosomal_marker_check.csv",
+    "marker_counts": "../results/markers/marker_counts_per_cluster.csv",
+    "clusters_ready": "../results/markers/clusters_ready_for_annotation.csv",
+    "ambiguous_clusters": "../results/markers/ambiguous_clusters.csv",
+    "stability_summary": "../results/markers/stability_summary.csv"
+}

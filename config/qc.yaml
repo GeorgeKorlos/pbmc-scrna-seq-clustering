@@ -1,0 +1,4 @@
+min_genes: 300
+max_genes: 2500
+max_mito_pct: 10
+min_cells_per_gene: 3

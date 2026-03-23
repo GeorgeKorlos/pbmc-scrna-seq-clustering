@@ -1,0 +1,8 @@
+group,num_canonical_markers,markers
+0,4,"['CD3D', 'IL7R', 'CCR7', 'CD3E']"
+1,3,"['HLA-DRA', 'CD14', 'LST1']"
+2,3,"['CD79A', 'HLA-DRA', 'MS4A1']"
+3,5,"['GNLY', 'GZMA', 'CD8A', 'FCGR3A', 'NKG7']"
+4,6,"['CD3E', 'GZMA', 'CD8A', 'IL7R', 'CD3D', 'NKG7']"
+5,4,"['ITGAX', 'HLA-DRA', 'FCGR3A', 'LST1']"
+6,2,"['HLA-DRA', 'LST1']"

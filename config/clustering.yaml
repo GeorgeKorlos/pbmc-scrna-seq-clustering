@@ -1,0 +1,8 @@
+n_hvgs: 2000
+hvg_flavor: "seurat"
+n_pcs: 40
+n_neighbors: 15
+resolutions: [0.5, 1.0, 1.5]
+primary_resolution: 1.0
+random_seed: 42
+metric: "euclidean" 

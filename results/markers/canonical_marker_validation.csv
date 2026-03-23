@@ -1,0 +1,8 @@
+cluster,detected_canonical_markers
+0,"['CD3D', 'CD3E', 'IL7R', 'CCR7']"
+1,"['LST1', 'CD14', 'HLA-DRA']"
+2,"['CD79A', 'HLA-DRA', 'MS4A1']"
+3,"['NKG7', 'GZMA', 'GNLY', 'FCGR3A', 'CD8A']"
+4,"['NKG7', 'GZMA', 'IL7R', 'CD3D', 'CD8A', 'CD3E']"
+5,"['LST1', 'FCGR3A', 'HLA-DRA', 'ITGAX']"
+6,"['HLA-DRA', 'LST1']"
