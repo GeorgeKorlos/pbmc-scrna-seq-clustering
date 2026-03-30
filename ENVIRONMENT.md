@@ -3,7 +3,7 @@
 ## System
 - OS: Ubuntu 22.04.5 LTS
 - Python: Python 3.11.14
-- Pip: pip 26.0.1 from /home/godfather/2026_bio_projects/pbmc_scRNA_clustering_markers/.venv/lib/python3.11/site-packages/pip (python 3.11)
+- Pip: pip 26.0.1 from .venv/lib/python3.11/site-packages/pip (python 3.11)
 
 ## Python packages (pinned)
 ```
